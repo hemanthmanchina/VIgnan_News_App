@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214287038768",
+    "project_id": "vignan-news-app",
+    "storage_bucket": "vignan-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214287038768:android:62b64014832d85ddc530f5",
+        "android_client_info": {
+          "package_name": "com.example.vignannewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214287038768-9ontfjig7otj8tg8c8qj01umc7pi23pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vignannewsapp",
+            "certificate_hash": "0993900a60a0ff9f2006137b4562fd7ebbca772a"
+          }
+        },
+        {
+          "client_id": "214287038768-djokiocsuq05uo8nnbtk6nlkonbq44ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhhGFp6O4W3FzdIsUcKelKap1DY9XeG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214287038768-djokiocsuq05uo8nnbtk6nlkonbq44ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
